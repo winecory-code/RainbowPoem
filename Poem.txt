@@ -9,4 +9,4 @@ unicorn
 Yeollow
 Red
 These are the color of the Rainbow.
-And the unicorn
+And the unicorn.
